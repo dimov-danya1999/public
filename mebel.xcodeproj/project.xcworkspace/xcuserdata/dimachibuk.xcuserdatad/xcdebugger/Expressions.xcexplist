@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PurchaseOpenActivity.buildView():PurchaseOpenActivity.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "PurchaseOpenActivity.object.status.elementsEqual(&quot;&#x41e;&#x436;&#x438;&#x434;&#x430;&#x435;&#x442; &#x440;&#x430;&#x441;&#x441;&#x43c;&#x43e;&#x442;&#x440;&#x435;&#x43d;&#x438;&#x44f;&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MenuAdapter.collectionView(_:cellForItemAt:):MenuAdapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.date.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PurchaseOpenListAdapter.collectionView(_:layout:sizeForItemAt:):PurchaseOpenListAdapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.bounds.size.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GetMenu.connect():GetMenu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "id">
+            </PersistentString>
+            <PersistentString
+               value = "ViewController.account!.id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GetSearch.connect():GetSearch.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(decoding: response.data!, as: UTF8.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GetMenu.connect():GetMenu.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.data!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BasketOpenItemCell.layoutSubviews():BasketOpenItemCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductActivity.viewDidLoad():ProductActivity.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "icon.layer.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #2 in MenuAdapter.collectionView(_:didSelectItemAt:):MenuAdapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Login.connect():Login.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "json">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.buildBanners():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bannersScrollView.layer.frame">
+            </PersistentString>
+            <PersistentString
+               value = "stackView.layer.frame">
+            </PersistentString>
+            <PersistentString
+               value = "bannersStack.layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ProductActivity.connect():ProductActivity.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result as! NSDictionary">
+            </PersistentString>
+            <PersistentString
+               value = "String(decoding: response.data!, as: UTF8.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in GetCategory.connect():GetCategory.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(decoding: response.data!, as: UTF8.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AccountLogin.connect():AccountLogin.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "try JSONDecoder().decode(AccountObject.self, from: response.data!)">
+            </PersistentString>
+            <PersistentString
+               value = "response.data">
+            </PersistentString>
+            <PersistentString
+               value = "String(decoding: response.data!, as: UTF8.self)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MenuAdapter.collectionView(_:layout:sizeForItemAt:):MenuAdapter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ViewController.account">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

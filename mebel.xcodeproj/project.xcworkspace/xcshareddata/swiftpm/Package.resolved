@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "eaf6e622dd41b07b251d8f01752eab31bc811493",
+        "version" : "5.4.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "15d199e84677303a7004ed2c5ecaa1a90f3863f8",
+        "version" : "6.2.1"
+      }
+    },
+    {
+      "identity" : "pushy-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pushy-me/pushy-sdk-ios.git",
+      "state" : {
+        "revision" : "14da7a47d9b43b2d4c2c02a0dbf56e0156045483",
+        "version" : "1.0.32"
+      }
+    }
+  ],
+  "version" : 2
+}
